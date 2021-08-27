@@ -1,14 +1,13 @@
-## <p align='center'>Hey there! I'm Adithya P Nair 
+## <p align='center'>Hey there! I'm Adithya P Nair <img src="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-max-1mb.gif" width=60 height= 50>
 
 ### About Me
-
-- &nbsp;I am currently pursuing B.Tech in Computer Science and Engineering 🎓. As an engineering student, I am more interested in the advancing technology around the globe and would be honored to contribute more to it with my developing skills.
+- &nbsp;I am currently pursuing 🎓 B.Tech in Computer Science and Engineering. As an engineering student, I am more interested in the advancing technology around the globe and would be honored to contribute more to it with my developing skills.
 
 - &nbsp;I can be relied upon to complete all the assigned tasks with perfection and complete dedication.
 
 <a href="https://github.com/adinairp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adinairp&theme=github_dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinairp&theme=github_dark&layout=compact" />
+  <img align='center'src="https://github-readme-stats.vercel.app/api?username=adinairp&theme=github_dark&show_icons=true" />
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinairp&theme=github_dark&layout=compact" />
 </a>
 <br/>
 
