@@ -1,10 +1,4 @@
 ## <p align='center'>Hey there! I'm Adithya P Nair <img src="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-max-1mb.gif" width=60 height= 50>
-
-### About Me
-- &nbsp;I am currently pursuing 🎓 B.Tech in Computer Science and Engineering. As an engineering student, I am more interested in the advancing technology around the globe and would be honored to contribute more to it with my developing skills.
-
-- &nbsp;I can be relied upon to complete all the assigned tasks with perfection and complete dedication.
-
 <a href="https://github.com/adinairp">
   <img align='center'src="https://github-readme-stats.vercel.app/api?username=adinairp&theme=github_dark&show_icons=true" />
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinairp&theme=github_dark&layout=compact" />
@@ -12,6 +6,5 @@
 <br/>
 
 ### Connect with me!
-  [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" width=50 height= 50>](https://www.linkedin.com/in/adithya-pradeep-8735791b1/)
-  &nbsp; [<img src="https://www.flaticon.com/svg/static/icons/svg/95/95627.svg" width=50 height= 50>](mailto:adinairp@gmail.com?subject=Hi!%20I%20found%20you%20on%20Github)
-  &nbsp; [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width=50 height= 50>](https://instagram.com/_adithya_p_)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=50 height= 50>](https://www.linkedin.com/in/adithya-pradeep-8735791b1/)
+  &nbsp; [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=50 height= 50>](mailto:adinairp@gmail.com?subject=Hi!%20I%20found%20you%20on%20Github)
