@@ -6,5 +6,5 @@
 <br/>
 
 ### Connect with me!
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=100 height= 50>](https://www.linkedin.com/in/adithya-pradeep-8735791b1/)
-  &nbsp; [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=100 height= 50>](mailto:adinairp@gmail.com?subject=Hi!%20I%20found%20you%20on%20Github)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=100 height= 30>](https://www.linkedin.com/in/adithya-pradeep-8735791b1/)
+  &nbsp; [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=100 height= 30>](mailto:adinairp@gmail.com?subject=Hi!%20I%20found%20you%20on%20Github)
